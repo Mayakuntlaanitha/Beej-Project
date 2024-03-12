@@ -13,7 +13,13 @@ Beej is a web project designed to showcase the versatility and power of CSS (Cas
 ![Screenshot 2024-03-12 104621](https://github.com/Mayakuntlaanitha/Beej-Project/assets/156880599/58674008-5fb5-43f0-ae76-619e63e31914)
 ![Screenshot 2024-03-12 104734](https://github.com/Mayakuntlaanitha/Beej-Project/assets/156880599/b9ed143e-7f04-48f3-8a28-bde5048dc5e1)
 
+# Technologies Used
+HTML CSS MEDIA QUERIES
 
+# Key Features
+Beej prioritizes responsiveness, ensuring that each page adapts seamlessly to different screen sizes and devices. Whether viewed on a desktop, tablet, or smartphone, users can enjoy a consistent and engaging experience. Beej experiments with unconventional layout techniques, such as CSS Grid and Flexbox, to arrange content in dynamic and visually interesting ways. From multi-column grids to asymmetrical arrangements, each layout choice serves to captivate and intrigue users.
+# Conclusion
+Overall, Beej serves as both a testament to the creative potential of CSS and a source of inspiration for designers and developers seeking to elevate their own web projects. By pushing the boundaries of what can be achieved with CSS styling, Beej invites users on a journey of exploration and discovery in the world of web design.
 
 
 
